@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1564952608875,
+  "timestamp": 1566252984427,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.67b743d564857c702dd6.js",
-        "/main-es5.656671478dfd1c13c601.js",
+        "/main-es2015.3cdc30a98756d8bc9d92.js",
+        "/main-es5.c17e38ff07ea84bda59c.js",
         "/polyfills-es2015.3127c3c72c8d7293761f.js",
         "/polyfills-es5.da479429bfd39fbf99d9.js",
         "/runtime-es2015.10a1f01eef199006286d.js",
@@ -48,11 +48,11 @@
     "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
-    "/assets/truth.json": "4933d1aeb3504159a7d438ee7931676b183a4eea",
+    "/assets/truth.json": "97a4a54e02324831cea6bd698cc27b9235a97490",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "4fd6431666a57b6104465dff06d0b002a637db33",
-    "/main-es2015.67b743d564857c702dd6.js": "d5c6362aff5fdc4d5c69482f50ba62cdc9e82139",
-    "/main-es5.656671478dfd1c13c601.js": "af78225ad1ba54760700307848cbea267d8d239b",
+    "/index.html": "83b6260e96e88a5831eb39c32c4cc123c8eea8d1",
+    "/main-es2015.3cdc30a98756d8bc9d92.js": "8a631efcdbbcbc654a2422549b2901d706a25fb0",
+    "/main-es5.c17e38ff07ea84bda59c.js": "cb6204faa6e69e38526f5b7b37778e7f6bdb500d",
     "/polyfills-es2015.3127c3c72c8d7293761f.js": "058203dab4ba87056d6976029ba60fa42e6f75b9",
     "/polyfills-es5.da479429bfd39fbf99d9.js": "7e1b38fcb73a9607657630e25f278302170f96dc",
     "/runtime-es2015.10a1f01eef199006286d.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
